@@ -8,6 +8,9 @@ import {BiMessageSquareDetail} from 'react-icons/bi'
 import { useState } from 'react'
 
 const Nav = () => {
+  /*-----------------------------*/
+  //https://www.webtips.dev/webtips/react-hooks/element-in-viewport
+  /*-----------------------------*/
   const [activeNav, setActiveNav] = useState('#')
   return (
     <nav>

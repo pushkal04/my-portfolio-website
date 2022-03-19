@@ -53,6 +53,7 @@ const Certificates = () => {
             )
           })
         }
+        
       </Swiper>
     </section>
   )

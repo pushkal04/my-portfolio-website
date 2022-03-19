@@ -1,28 +1,30 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/server.png'
+import IMG1 from '../../assets/path_finding.png'
+import IMG2 from '../../assets/foodOrdering.png'
+import IMG3 from '../../assets/NetworkingPython.png'
 
 const data = [
   {
     id: 1,
     img: IMG1,
-    title: 'This is the title of the thing',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    title: 'Path finding visualization',
+    github: 'https://github.com/pushkal04/Path-Finding-Visualizer',
+    demo: 'https://github.com/pushkal04/Path-Finding-Visualizer'
   },
   {
     id: 2,
-    img: IMG1,
-    title: 'This is the title of the thing',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    img: IMG2,
+    title: 'Food ordering app',
+    github: 'https://github.com/pushkal04/food-delivery-app',
+    demo: 'https://github.com/pushkal04/food-delivery-app'
   },
   {
     id: 3,
-    img: IMG1,
-    title: 'This is the title of the thing',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    img: IMG3,
+    title: 'Python networking',
+    github: 'https://github.com/pushkal04/Multiplayer-Snake-game',
+    demo: 'https://github.com/pushkal04/Multiplayer-Snake-game'
   }
 ]
 

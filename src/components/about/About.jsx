@@ -39,9 +39,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem neque aliquam omnis voluptatem, 
-            ipsum libero repellat nisi inventore autem eius veritatis dolore voluptatum architecto, 
-            eum quas quidem, nulla optio.
+            An enthusiastic developer and a quick learner, my expertise lie in creating efficient software with free flowing desgin. Having worked 
+            as a content writer/ UI/UX designer, I have developed a deep understanding of key UX features and suitable content to imrove webiste traffic.
+            My other interests include Data analytics and Machine Learning. 
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
