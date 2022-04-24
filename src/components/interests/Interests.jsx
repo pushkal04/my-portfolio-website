@@ -59,6 +59,30 @@ const Interests = () => {
             </article>
             <article className="service">
                 <div className="service__head">
+                    <h3>Block Chain</h3>
+                </div>
+
+                <ul className="service__list">
+                    <li>
+                        <BiCheck className ='service__list-icon'/>
+                        <p>Blockchain deployment and development with web3, solidity, cakeshop and truffle.</p>
+                    </li>
+                    <li>
+                        <BiCheck className ='service__list-icon'/>
+                        <p>Smart contracts and custom dapp frameworks like OpenZeppelin.</p>
+                    </li>
+                    <li>
+                        <BiCheck className ='service__list-icon'/>
+                        <p>Application and data science engineering using Python..</p>
+                    </li>
+                    <li>
+                        <BiCheck className ='service__list-icon'/>
+                        <p>Web platforms using Phoneix / Elixir and serverless architecture.</p>
+                    </li>
+                </ul>
+            </article>
+            <article className="service">
+                <div className="service__head">
                     <h3>Game Development</h3>
                 </div>
 

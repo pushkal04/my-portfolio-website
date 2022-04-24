@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/path_finding.png'
 import IMG2 from '../../assets/foodOrdering.png'
 import IMG3 from '../../assets/NetworkingPython.png'
+import IMG4 from '../../assets/eth_market.png'
 
 const data = [
   {
@@ -25,6 +26,13 @@ const data = [
     title: 'Python networking',
     github: 'https://github.com/pushkal04/Multiplayer-Snake-game',
     demo: 'https://github.com/pushkal04/Multiplayer-Snake-game'
+  },
+  {
+    id: 4,
+    img: IMG4,
+    title: 'Block Chain Marketplace',
+    github: 'https://github.com/pushkal04/e-commerce-block-chain',
+    demo: 'https://github.com/pushkal04/e-commerce-block-chain'
   }
 ]
 
